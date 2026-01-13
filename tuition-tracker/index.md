@@ -1,10 +1,10 @@
 # Privacy Policy for Tuition Tracker
 
-**Last Updated:** January 13, 2025
+**Last Updated:** January 13, 2026
 
 ## Overview
 
-Tuition Tracker is a mobile application designed to help tutors track their tuition classes. This privacy policy explains how we handle your information.
+Tuition Tracker is a mobile application designed to help tutors and students manage and track their tuition classes. This privacy policy explains how we handle your information.
 
 ## Data We Collect
 
