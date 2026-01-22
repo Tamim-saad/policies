@@ -1,6 +1,6 @@
 # Privacy Policy for Tuition Tracker
 
-**Last Updated:** January 21, 2025
+**Last Updated:** January 21, 2026
 
 ## Overview
 
