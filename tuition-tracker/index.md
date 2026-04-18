@@ -1,10 +1,14 @@
 # Privacy Policy for Tuition Tracker
 
-**Last Updated:** January 21, 2026
+**Last Updated:** April 18, 2026
 
 ## Overview
 
-Tuition Tracker is a mobile application designed to help tutors and students manage and track their tuition classes. This privacy policy explains how we handle your information.
+Tuition Tracker is a mobile application designed to help teachers and students manage and track their tuition classes. Teachers use it to record students, sessions, and payments; students use it to track their classes with a teacher. This privacy policy explains how we handle your information.
+
+## Who Can Use This App
+
+Tuition Tracker is intended for users **aged 13 and above**. If you are under 13, please do not use the app without the supervision and consent of a parent or legal guardian.
 
 ## Data We Collect
 
@@ -49,19 +53,19 @@ The only data shared is through Google AdMob for advertising purposes as describ
 
 ## Data Security
 
-Your data is stored only on your device using standard Android storage mechanisms. We do not have access to your data.
+Your data is stored only on your device using Android's standard app storage. Android system backup has been disabled for this app, so your tuition data is not copied to Google Drive or any other cloud backup service. We do not have access to your data.
 
 ## Children's Privacy
 
-**Important:** This app is intended for tutors (adults) to manage their tuition classes. It is NOT intended for children under 13 to use directly.
+Tuition Tracker is intended for users aged 13 and above. The app is a personal record-keeping tool — all information you enter is stored only on your own device and is never sent to our servers.
 
-If tutors use this app to track tutoring sessions with students under 13, please note:
+If a user under 13 wishes to use the app, they must only do so with the knowledge and consent of a parent or legal guardian. The parent or guardian is responsible for any information entered into the app on the child's device.
 
-- The student data is stored locally on the tutor's device only
-- We do not collect or transmit any student information to our servers
-- Advertisements shown in the app are intended for the tutor (adult user), not for students
+When a teacher uses the app to keep records of students (which may include minors), the teacher is responsible for ensuring they have the appropriate authority — from themselves, from the school, or from a parent or guardian — to keep those records. Student information entered by a teacher stays on the teacher's device only.
 
-We comply with the Children's Online Privacy Protection Act (COPPA) and do not knowingly collect personal information from children under 13.
+Advertisements, when enabled, are served by Google AdMob with the app marked as **not directed to children**, so personalized advertising is not targeted at users under 18.
+
+We comply with the Children's Online Privacy Protection Act (COPPA) and do not knowingly collect personal information from children under 13 on our servers.
 
 ## User Consent for Advertising
 
@@ -81,6 +85,8 @@ All your tuition data is stored locally on your device. You can delete all data 
 2. Selecting "Clear All Data"
 
 Alternatively, uninstalling the app will remove all associated data.
+
+When you use the Export feature to share your data as a CSV file, the temporary file is automatically removed from the app's cache on the next export, so it does not linger on your device. The destination of any shared copy (email, Drive, Telegram, etc.) is controlled by you.
 
 ## Changes to This Policy
 
